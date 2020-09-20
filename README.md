@@ -21,4 +21,6 @@ The analysis was completed using Python and the following libraries:
 - sklearn
 - pandas
 - plotly express
+- Jupyter notebook
 
+The Jupyter notebook file is __crypto_currency_challenge.ipynb__ which can be found in this repository.
